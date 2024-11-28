@@ -1,0 +1,13 @@
+{
+  "name": "serverless-appsync-events-api-plugin",
+  "version": "1.0.0",
+  "description": "A serverless plugin to work with service appsync events api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elias Lezcano",
+  "license": "ISC",
+  "repository": "https://github.com/sid88in/serverless-appsync-plugin"
+}
