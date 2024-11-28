@@ -1,0 +1,18 @@
+.DS_Store
+node_modules
+npm-debug.log
+yarn-error.json
+users.json
+
+# serverless zip
+.serverless
+# webpack build files
+.webpack
+# eslint cache
+.eslintcache
+
+.idea
+# vim
+*.swp
+.vscode/settings.json
+lib
