@@ -1,0 +1,1 @@
+Deploy [AppSync](https://aws.amazon.com/appsync) Events API's in minutes using this [Serverless](https://www.serverless.com) plugin.
